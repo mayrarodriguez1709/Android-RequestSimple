@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RequestSimple</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvConnectionVolley">Probando Conexión Volley...</string>
+</resources>
